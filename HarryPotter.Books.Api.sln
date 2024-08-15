@@ -8,11 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{B7E36A2F-28A1-4B68-BCF6-2E4F9EBDADAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "src\Api", "src\Api\Api.csproj", "{B7E36A2F-28A1-4B68-BCF6-2E4F9EBDADAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{9075773E-3002-4801-9B18-E5E6E87E8932}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\Domain", "src\Domain\Domain.csproj", "{9075773E-3002-4801-9B18-E5E6E87E8932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{58430E72-F849-41F1-AA73-9557F167732E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\Infra", "src\Infra\Infra.csproj", "{58430E72-F849-41F1-AA73-9557F167732E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
